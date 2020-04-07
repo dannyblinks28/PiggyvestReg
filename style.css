@@ -1,0 +1,172 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #062863;
+}
+
+
+
+#data1{
+    position: fixed;
+    top: -65px;   
+    left: -12px; 
+    width: 15%;
+}
+
+#data2 {
+    position: fixed;
+    top: -5px;
+    right: -100px;    
+    width: 15%;
+}
+
+#data3{
+    position: fixed;
+    bottom: -40px;   
+    left: -55px; 
+    width: 15%;
+}
+
+#data4 {
+    position: fixed;
+    bottom: -20px;
+    right: -75px;    
+    width: 15%;
+}
+
+#container {
+    width: 400px;
+    margin: 20px 0 0 450px;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 15px 15px 15px 0;
+}
+
+#mainpage {
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    margin: 30px 200px;
+    padding: 15px 10px;
+    
+}
+
+.mainreg1 {
+    margin: 0px 0 20px 0;
+    padding: 10px;
+}
+
+.secure {
+    padding: 5px;
+    font-size: 25px;
+    color: #062863;
+    font-weight: initial;
+}
+
+.details {
+    text-align: left;
+    margin-left: 10px;
+}
+
+#log {
+    width: 382px;
+}
+
+label {
+    color: gray;
+    font-size: 15px;
+}
+
+#urname {
+    background-color: #c7c8c96b;
+    margin-top: 5px;
+    padding-left: 15px;
+    width: 350px;
+    outline: 0;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+}
+
+#email {
+    background-color: #c7c8c96b;
+    margin-top: 5px;
+    padding-left: 15px;
+    width: 350px;
+    outline: 0;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+}
+
+#number {
+    background-color: #c7c8c96b;
+    margin-top: 5px;
+    padding-left: 15px;
+    width: 350px;
+    outline: 0;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+}
+
+#password {
+    background-color: #c7c8c96b;
+    margin-top: 5px;
+    padding-left: 15px;
+    width: 350px;
+    outline: 0;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+}
+
+#referrer {
+    background-color: #c7c8c96b;
+    margin-top: 5px;
+    padding-left: 15px;
+    width: 350px;
+    outline: 0;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+}
+
+select {
+    background-color: #c7c8c96b;
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+    padding-left: 15px;
+    width: 362px;
+    outline: 0;
+    height: 60px;
+    border-color: #5185df;
+    border-radius: 10px;
+}
+
+#submitbtn {
+    width: 362px;
+    height: 60px;
+    margin: 5px;
+    border: none;
+    background-color: #335da7;
+    border-radius: 15px 15px 15px 0;
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+.already {
+    margin: 20px;
+}
+
+#already1 {
+    color: #ffffff;
+    background-color: #062863;
+    border: none;
+}
